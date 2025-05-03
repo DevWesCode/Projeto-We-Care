@@ -32,16 +32,6 @@ Durante o desenvolvimento deste projeto, aprendi:
 - Como tornar um site responsivo utilizando media queries
 - Como utilizar fontes externas e organizar um projeto com boas práticas básicas
 
-## 📂 Estrutura de Pastas
-
-we-care/
-│
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-└── img/
-└── we-care.png
 
 ## 📌 Status do Projeto:
 
