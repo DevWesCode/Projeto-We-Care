@@ -35,5 +35,5 @@ Durante o desenvolvimento deste projeto, aprendi:
 
 ## 📌 Status do Projeto:
 
-✅ Por hora finalizado — Projeto estático finalizado com HTML e CSS. > Obs: Podem desconsiderar o `script.js` está incluído no projeto apenas para estudo onde, foi adicionado um menu hambúrguer que se adapta a telas menores e também para futuras funcionalidades.
+✅ Por hora finalizado — Projeto estático finalizado com HTML e CSS. > Obs: Podem desconsiderar o `script.js` está incluído no projeto apenas para estudo, onde foi adicionado um menu hambúrguer que se adapta a telas menores e também para futuras funcionalidades.
 
