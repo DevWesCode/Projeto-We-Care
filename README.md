@@ -2,6 +2,7 @@
 
 Este é o meu **primeiro projeto** desenvolvido com **HTML e CSS**, criado com o objetivo de aprender e praticar os fundamentos dessas tecnologias. A proposta foi criar uma página fictícia para uma empresa de cuidados com pets chamada **"We Care"**.
 
+--- 
 ## 🚀 Funcionalidades
 
 - Layout moderno e responsivo
