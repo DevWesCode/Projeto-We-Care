@@ -1,8 +1,8 @@
 # 🐾 We Care - Primeiro Projeto com HTML e CSS
 
 Este é o meu **primeiro projeto** desenvolvido com **HTML e CSS**, criado com o objetivo de aprender e praticar os fundamentos dessas tecnologias. A proposta foi criar uma página fictícia para uma empresa de cuidados com pets chamada **"We Care"**.
-
 --- 
+
 ## 🚀 Funcionalidades
 
 - Layout moderno e responsivo
@@ -10,6 +10,7 @@ Este é o meu **primeiro projeto** desenvolvido com **HTML e CSS**, criado com o
 - Estilização com CSS3
 - Menu adaptável para dispositivos móveis (menu hambúrguer um teste de JS)
 - Integração com fontes do Google Fonts
+---
 
 ## 📱 Responsividade
 
@@ -18,11 +19,13 @@ O site foi projetado para funcionar bem em diferentes tamanhos de tela, com **me
 - Telas grandes (desktops)
 - Tablets (largura máxima de 768px)
 - Celulares (largura máxima de 480px)
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
 - CSS3
+---
 
 ## 💡 Aprendizados
 
@@ -32,13 +35,13 @@ Durante o desenvolvimento deste projeto, aprendi:
 - Como aplicar estilos utilizando seletores, pseudo-classes e classes CSS
 - Como tornar um site responsivo utilizando media queries
 - Como utilizar fontes externas e organizar um projeto com boas práticas básicas
+---
 
 ## 📷 Captura de Tela
 
 ![image](https://github.com/user-attachments/assets/99f63af9-a2a9-414d-9209-8329d798afbd)
 ![image](https://github.com/user-attachments/assets/471852d3-8ebf-4e9e-9c7d-79b81d006e0a)
-
-
+---
 
 ## 📌 Status do Projeto:
 
