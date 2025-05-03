@@ -35,6 +35,8 @@ Durante o desenvolvimento deste projeto, aprendi:
 ## 📷 Captura de Tela
 
 ![image](https://github.com/user-attachments/assets/99f63af9-a2a9-414d-9209-8329d798afbd)
+![image](https://github.com/user-attachments/assets/471852d3-8ebf-4e9e-9c7d-79b81d006e0a)
+
 
 
 ## 📌 Status do Projeto:
