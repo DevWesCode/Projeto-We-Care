@@ -32,6 +32,10 @@ Durante o desenvolvimento deste projeto, aprendi:
 - Como tornar um site responsivo utilizando media queries
 - Como utilizar fontes externas e organizar um projeto com boas práticas básicas
 
+## 📷 Captura de Tela
+
+![image](https://github.com/user-attachments/assets/99f63af9-a2a9-414d-9209-8329d798afbd)
+
 
 ## 📌 Status do Projeto:
 
